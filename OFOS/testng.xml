@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+    <class name="OFOS_TestScript.OFOS_Register_001"/>
+      <class name="OFOS_TestScript.OFOS_MyOrders_011"/>
+      <class name="OFOS_TestScript.OFOS_MyOrders_010"/>
+      <class name="OFOS_TestScript.OFOS_MyOrders_015"/>
+      <class name="OFOS_TestScript.OFOS_MyOrders_014"/>
+      <class name="OFOS_TestScript.OFOS_MyOrders_013"/>
+      <class name="OFOS_TestScript.OFOS_MyOrders_012"/>
+      <class name="OFOS_TestScript.OFOS_Logout_020"/>
+      <class name="OFOS_TestScript.OFOS_cart_005"/>
+      <class name="OFOS_TestScript.OFOS_cart_004"/>
+      <class name="OFOS_TestScript.OFOS_Login_002"/>
+      <class name="OFOS_TestScript.OFOS_cart_003"/>
+      <class name="OFOS_TestScript.OFOS_MyOrders_008"/>
+      <class name="OFOS_TestScript.OFOS_MyOrders_019"/>
+      <class name="OFOS_TestScript.OFOS_MyOrders_007"/>
+      <class name="OFOS_TestScript.OFOS_MyOrders_018"/>
+      <class name="OFOS_TestScript.OFOS_MyOrders_006"/>
+      <class name="OFOS_TestScript.OFOS_MyOrders_017"/>
+      <class name="OFOS_TestScript.OFOS_MyOrders_016"/>
+      <class name="OFOS_TestScript.OFOS_MyOrders_009"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

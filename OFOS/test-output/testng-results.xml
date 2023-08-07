@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-08-05T12:49:44 IST" name="Default suite" finished-at="2023-08-05T12:49:58 IST" duration-ms="14515">
+    <groups>
+    </groups>
+    <test started-at="2023-08-05T12:49:44 IST" name="Default test" finished-at="2023-08-05T12:49:58 IST" duration-ms="14515">
+      <class name="OFOS_TestScript.OFOS_MyOrders_014">
+        <test-method is-config="true" signature="beforeSuit()[pri:0, instance:OFOS_TestScript.OFOS_MyOrders_014@5ba3f27a]" started-at="2023-08-05T12:49:43 IST" name="beforeSuit" finished-at="2023-08-05T12:49:44 IST" duration-ms="350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuit -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:OFOS_TestScript.OFOS_MyOrders_014@5ba3f27a]" started-at="2023-08-05T12:49:44 IST" name="browserSetup" finished-at="2023-08-05T12:49:47 IST" duration-ms="3490" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:OFOS_TestScript.OFOS_MyOrders_014@5ba3f27a]" started-at="2023-08-05T12:49:47 IST" name="setup" finished-at="2023-08-05T12:49:47 IST" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OFOS_TestScript.OFOS_MyOrders_014.placedOrderFromChineseRestaurant() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="placedOrderFromChineseRestaurant()[pri:0, instance:OFOS_TestScript.OFOS_MyOrders_014@5ba3f27a]" started-at="2023-08-05T12:49:47 IST" name="placedOrderFromChineseRestaurant" finished-at="2023-08-05T12:49:58 IST" duration-ms="10504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placedOrderFromChineseRestaurant -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:OFOS_TestScript.OFOS_MyOrders_014@5ba3f27a]" started-at="2023-08-05T12:49:58 IST" name="CloseApp" finished-at="2023-08-05T12:49:58 IST" duration-ms="465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:OFOS_TestScript.OFOS_MyOrders_014@5ba3f27a]" started-at="2023-08-05T12:49:58 IST" name="afterSuite" finished-at="2023-08-05T12:49:59 IST" duration-ms="390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- OFOS_TestScript.OFOS_MyOrders_014 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
